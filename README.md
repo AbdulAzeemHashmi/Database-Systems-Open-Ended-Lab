@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains open-ended laboratory exercises and projects focused on **Database Systems**, with a particular emphasis on **Vector Databases**. These labs are designed to provide hands-on experience with modern database technologies and concepts.
+This repository contains open-ended laboratory exercises and projects focused on **Database Systems**, with a particular emphasis on **Vector Databases**. These labs are designed to provide hands-on experience with modern database technologies and practical implementations.
 
 ## 📚 Contents
 
@@ -15,7 +15,7 @@ This repository contains open-ended laboratory exercises and projects focused on
 
 ### Supporting Files
 
-- `metadata.csv` - Metadata and configuration files for lab exercises
+- `animal_dataset.zip` - Dataset files for lab exercises
 - `README.md` - This documentation file
 
 ## 🎯 Learning Objectives
@@ -44,18 +44,23 @@ This lab series aims to help you:
    cd Database-Systems-Open-Ended-Lab
    ```
 
-2. Install required dependencies:
+2. Extract the dataset (if needed):
+   ```bash
+   unzip animal_dataset.zip
+   ```
+
+3. Install required dependencies:
    ```bash
    pip install -r requirements.txt  # if available
    # or install packages as needed
    ```
 
-3. Open the notebook in Jupyter:
+4. Open the notebook in Jupyter:
    ```bash
    jupyter notebook Lab_14_Vector_Database.ipynb
    ```
 
-4. Follow the exercises and instructions within the notebook
+5. Follow the exercises and instructions within the notebook
 
 ## 📖 Lab Details
 
@@ -90,6 +95,6 @@ This project is provided as-is for educational purposes.
 
 ---
 
-**Last Updated:** May 5, 2026
+**Last Updated:** May 6, 2026
 
 For questions or issues, feel free to open a GitHub issue in this repository.
