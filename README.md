@@ -1,6 +1,6 @@
 # Database Systems Open-Ended Lab
 
-## Overview
+## Overview 
 
 This repository contains open-ended laboratory exercises and projects focused on **Database Systems**, with a particular emphasis on **Vector Databases**. These labs are designed to provide hands-on experience with modern database technologies and practical implementations.
 
