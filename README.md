@@ -1,4 +1,4 @@
-# Database Systems Open-Ended Lab
+# Database Systems Open-Ended Lab 
  
 ## Overview 
 
